@@ -63,7 +63,7 @@
   <string name="md5_verification_failed">Не удалось выполнить проверку MD5</string>
   <!-- Apply update strings -->
   <string name="apply_update_dialog_title">Применение обновления</string>
-  <string name="apply_update_dialog_text">Будет выполнено обновление до версии «<xliff:g id="filename">%s</xliff:g>».\n\nПри нажатии кнопки «Обновить» устройство перезагрузится и перейдет в режим восстановления для установки этого обновления. \n\nПримечание: для этой функции необходим совместимый режим восстановления, в противном случае обновление придется установить вручную.</string>
+  <string name="apply_update_dialog_text">Будет выполнено обновление до версии «<xliff:g id="filename">%s</xliff:g>».\n\nПри нажатии кнопки «Обновить» устройство перезагрузится в TWRP, и будет выполнена установка обновления для Fly Tornado One. \n\nПримечание: не пытайтесь установить данное обновление на другое устройство! Последствия могут быть непредсказуемые.</string>
   <string name="apply_unable_to_reboot_toast">Невозможно перезагрузиться в режим восстановления</string>
   <!-- deleting -->
   <string name="confirm_delete_dialog_title">Удалить файл</string>
